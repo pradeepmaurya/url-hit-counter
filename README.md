@@ -1,6 +1,6 @@
 # url-hit-counter
 without username any time or any person :)
-* * * * * * * * * * * * * * * * Hii Everyone! Welcome on this Rest API CounterHit Application based on Spring Boot  * * * * * * * *  * * * * * *  * *  *
+Hii Everyone! Welcome on this Rest API CounterHit Application based on Spring Boot
 
 Here we are using two Dependencies ---
       |
