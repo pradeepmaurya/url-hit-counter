@@ -19,3 +19,5 @@ This project is Like MVC(Model View & Controller) means inside this project we a
                        
 Inside this project we have used Autowiring GetMapping and many more notation as we have attached bellow image
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/60605831/217195835-00181ca2-a84b-4982-bc84-842af863b411.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/60605831/217196325-9c437107-8294-4795-81ee-696e730fb1f5.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/60605831/217196376-25eb7b49-8ccf-4cc3-985e-5cfc348c9718.png">
